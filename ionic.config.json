@@ -1,0 +1,7 @@
+{
+  "name": "NextflowContact",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
